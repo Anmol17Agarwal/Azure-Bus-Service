@@ -1,0 +1,3 @@
+{
+    "connectionString": "Endpoint=sb://service-bus-trail.servicebus.windows.net/;SharedAccessKeyName=RootManageSharedAccessKey;SharedAccessKey=0dBkoE4b3WK6oajElCQtPpcrthU6a/R11+ASbDm4ld4="
+}
