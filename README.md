@@ -10,6 +10,7 @@ Queues are durable, meaning that messages are not lost if an application crashes
 You can create queues using the Azure portal, PowerShell, CLI, or ARM templates.
 You can send and receive messages using clients written in C#, Java, Python, or JavaScript.
 
+![](https://github.com/Anmol17Agarwal/AzureTask/blob/main/resources/about-service-bus-queue%20(1).png)
 
 
 ### Topics----
@@ -27,10 +28,24 @@ A subscription is a logical entity that defines which messages a subscriber will
 Subscriptions can be configured to filter messages, so that only certain messages are received.
 Subscriptions can be configured to receive messages in a variety of ways, such as receiving all messages, receiving only new messages, or receiving only messages that match certain criteria.
 Subscriptions are durable, meaning that they are not lost if an application crashes or restarts.
-Benefits
+![](https://github.com/Anmol17Agarwal/AzureTask/blob/main/resources/about-service-bus-queue%20(1).png)
+
+**Benefits**
+Durability: Messages are not lost if an application crashes or restarts.
+Reliability: Messages are delivered reliably, even if there are network failures.
+Scalability: Azure Service Bus can scale to handle large numbers of messages.
+Security: Azure Service Bus provides a variety of security features to protect your messages.
+
 
 ### Durability: Messages are not lost if an application crashes or restarts.
 Reliability: Messages are delivered reliably, even if there are network failures.
 Scalability: Azure Service Bus can scale to handle large numbers of messages.
 Security: Azure Service Bus provides a variety of security features to protect your messages.
+
+![](https://github.com/Anmol17Agarwal/AzureTask/blob/main/resources/Screenshot%202023-08-02%20121637.png)
+
+### Added ScreenShot of Azure Portal With stats
+![](https://github.com/Anmol17Agarwal/AzureTask/blob/main/resources/Screenshot%202023-08-08%20115113.png)
+
+
 
